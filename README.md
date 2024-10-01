@@ -1,5 +1,4 @@
-## Hi there, I'm valiapp 👋
+## Hi there, I'm Vasiliki (Valia) Pappa! 👋
 
-#### 🎓 Studying Electrical and Computer Engineering in Aristotle University of Thessaloniki
-#### 🛰️ [AcubeSAT project](https://acubesat.spacedot.gr/)
+#### 🎓 Studying Electrical and Computer Engineering at Aristotle University of Thessaloniki
 #### 🦊 GitLab profile: https://gitlab.com/valiapp
